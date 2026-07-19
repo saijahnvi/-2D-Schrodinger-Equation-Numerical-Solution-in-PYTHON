@@ -1,0 +1,2 @@
+# -2D-Schrodinger-Equation-Numerical-Solution-in-PYTHON
+This Python script simulates the spatial distribution of a quantum particle bound inside a 2D infinite potential well. By evaluating the TDSWE across a coordinate grid, it determines allowed energy eigenvalues and their stationary wavefunctions. The resulting plot visualizes the standing wave patterns and nodal lines of a high-order quantum state.
