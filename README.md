@@ -11,7 +11,7 @@ By mapping continuous space onto a discrete mesh, the spatial second derivatives
 
 
 ###  Higher-Order Quantized Profile
-![High Order State](images/eigenstate_3.png)
+![higher order state](eigenstate_3.png)
 *A high-frequency standing wave layout containing multiple geometric nodes and complex localization peaks.*
 
 ## Computational Implementation
